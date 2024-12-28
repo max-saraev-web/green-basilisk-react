@@ -1,0 +1,10 @@
+@use 'style/fonts.scss';
+
+$color: crimson;
+
+body {
+  // background-color: $color;
+  color: $color;
+  font-family: Montserrat, sans-serif;
+  font-style: italic;
+}
